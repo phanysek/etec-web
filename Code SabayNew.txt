@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Project Sabay/css/all.min.css">
+    <link rel="stylesheet" href="/Project Sabay/css/style sabay.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanuman:wght@300&family=Koulen&family=Odor+Mean+Chey&display=swap" rel="stylesheet"> 
+    <title>Document</title>
+</head>
+<body>
+    <!---Header-->
+    <div class="box-header">
+        <div class="box-1">
+            <img src="/Project Sabay/Photo/logo.png" id="img-1">
+            <img src="/Project Sabay/Photo/GIF.gif" id="img-2">
+        </div>
+    </div>
+     <!---Header-->
+
+     <!--navbar-->
+     <div class="box-nav">
+        <div class="navbar">
+            <ul>
+                <li><a href="#"><i class="fa-solid fa-house-chimney"></i></a></li>
+                <li><a href="#">កម្សាន្ត</a></li>
+                <li><a href="#">បច្ចេកវិទ្យា</a></li>
+                <li><a href="#">ជីវិតនិងសង្គម</a></li>
+                <li><a href="#">កីឡា</a></li>
+                <li><a href="#">ផ្លូវទៅស្រុក</a></li>
+                <li><a href="#">ព័ត៍មានថ្មី</a></li>
+                <li><a href="#">កម្សាន្ត</a></li>
+                <li><a href="#">កម្សាន្ត</a></li>
+                <li><a href="#">កម្សាន្ត</a></li>
+                <li><a href="#"><i class="fa-solid fa-ellipsis"></i></a></li>
+
+            </ul>
+        </div>
+     </div>
+     <!--navbar-->
+
+     <div class="box-content-1">
+        <div class="box-left">
+            <img src="/Project Sabay/Photo/p3.jpg">
+            <div class="box-date">
+                <p>ថ្ងៃនេះ ម៉ោង៖ ១២:០០</p>
+            </div>
+            <div class="box-title">
+                <h1>អត្តសញ្ញាណប័ណ្ណមន្ដ្រីរាជការស៊ីវិលទំនើបតាមបែបឌីជីថល
+                    បើបានប្រយោជន៍សំខាន់២ក្នុងពេលតែមួយ</h1>
+                <p >ពិតជាពិសេសមែន</p>
+            </div>
+            <div class="box-conner">
+                <p>កីឡា</p>
+            </div>
+            <div class="conner"></div>
+        </div>
+        <div class="box-center">
+            <img src="/Project Sabay/Photo/p3.jpg">
+            <div class="box-date">
+                <p>ថ្ងៃនេះ ម៉ោង៖ ១២:០០</p>
+            </div>
+            <div class="box-title">
+                <h1>អត្តសញ្ញាណប័ណ្ណមន្ដ្រីរាជការស៊ីវិលទំនើបតាមបែបឌីជីថល
+                    បើបានប្រយោជន៍សំខាន់២ក្នុងពេលតែមួយ</h1>
+                <p >ពិតជាពិសេសមែន</p>
+            </div>
+            <div class="box-conner">
+                <p>កីឡា</p>
+            </div>
+            <div class="conner"></div>
+        </div>
+        <div class="box-right">
+            <img src="/Project Sabay/Photo/p4.jpg" id="img">
+        </div>
+     </div>
+
+     <!--content2-->
+     <div class="box-content-2">
+        <div class="box-title">
+            <div class="box-conner">
+                <small>វីឌីអូ<i class="fa-solid fa-chevron-right"></i></small>
+                <div class="conner"></div>
+            </div>
+        </div>
+        <div class="box-hr">
+            <hr size="4px" color="red" id="hr">
+        </div>
+    </div>
+     <!--content2-->
+
+
+      <!--content3-->
+      <div class="box-content-3">
+        <div class="box-padding">
+            <div class="box-top">
+                <div class="box-left">
+                    <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                    <p>សៀក​ ពេជ្រ​ មុន​ប្រកួត​មិន​រំពឹង​ដល់​លេខ១​ តែ​សំណាង​ល្អ​ពេល​ប្រកួត​ម៉ូតូ​អត់​ខូច​</p>
+                </div>
+                <div class="box-center">
+                    <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                    <p>ប៊ន​ ណារិទ្ធ៖​ សរសើរ​បង​ម៉ាប់ឆ្វេង​ គាត់​ចាស់​នៅតែ​ល្អ​ជា​ពិសេស​បច្ចេកទេស​នេះ​</p>
+                </div>
+                <div class="box-right">
+                    <img src="/Project Sabay/Photo/p7.jpg" alt="">
+                    <p>ឈុតឆាកមិនអាចបំភ្លេចបាន និងត្រូវបានបញ្ចូលក្នុងប្រវត្តិសាស្ត្រ MAMA ច្រើនឆ្នាំកន្លងមកនេះ</p>
+                </div>
+            </div>
+            <div class="box-buttom">
+                <div class="box-left">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p8.jpg" alt="">
+                            <p>Ronaldo បាត់ឱកាស ២គ្រាប់នៅ World Cup ក្រោយគ្រាប់ទីមួយត្រូវ FIFA</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>វីដេអូឯកសារការផលិត RUM បិតពីអំពៅរបស់កម្ពុជាដែល
+                                ពិភពលោកទទួលស្គាល់</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p9.jpg" alt="">
+                            <p>ក្រោយស្មើអេស្ប៉ាញ ក្រុមអាល្លឺម៉ង់ត្រូវការធ្វើលក្ខខណ្ឌ ២នេះដាច់ខាតនៅប្រកួតក្រោយ
+                                ដើម្បីឡើងវគ្គបន្ត</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ស្មាត់​ យុន​ ប្រាប់​មូលហេតុ​លោត​វាយ​សេវា​មិន​សូវ​បាន​ល្អ​ពេល​ប៉ះ​ គោព្រៃ​កណ្ដាល​</p>
+                        </div>
+                    </div>
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ស្ដេចអារ៉ាប៊ី ឲ្យពលរដ្ឋឈប់សម្រាកមួយប្រទេស​ ក្រោយជម្រើសជាតិយកឈ្នះ
+                                អាហ្សង់ទីនផ្អើលពិភពលោក</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>២គ្រាប់ នៅ៦នាទីចុងម៉ោង ជួយហូឡង់ ឈ្នះសេណេហ្គាល់ ក្នុងប្រកួតដ៏តានតឹងសម្រាប់ពូល A</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p12.jpg" alt="">
+                            <p>កាតារមានលុយធ្វើ World Cupតែមិនមែនជាក្រុមគីឡូលេង World Cup ទេ</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>សន្ធឹកបទ Rap បង្កប់អត្ថន័យមុតជ្រៅ កើនឡើងយ៉ាងគំហុក ត្រឹមមួយសប្ដាហ៍ចុងក្រោយ​</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-right">
+                    <div class="box-gif-1">
+                        <img src="/Project Sabay/Photo/GIF1.gif" alt="">
+                    </div>
+                    <div class="box-gif-2">
+                        <img src="/Project Sabay/Photo/GIF2.gif" alt="">
+                    </div>
+                    <div class="box-gif-3">
+                        <img src="/Project Sabay/Photo/GIF3.jpg" alt="">
+                    </div>
+           
+                </div>
+            </div>
+        </div>
+      </div>
+
+       <!--content3-->
+
+       <!--content4-->
+       <div class="box-content4" style="margin-top: 20px;">
+        <div class="box-content-4">
+            <div class="box-title">
+                <div class="box-conner">
+                    <small>កម្សាន្ត<i class="fa-solid fa-chevron-right"></i></small>
+                    <div class="conner"></div>
+                </div>
+            </div>
+            <div class="box-hr">
+                <hr size="4px" id="hr-1">
+            </div>
+        </div>
+       </div>
+
+       <!--content4-->
+
+
+       <!--content5-->
+       <div class="box-content-5">
+            <div class="box-left">
+                <div class="box-imag">
+                    <img src="/Project Sabay/Photo/pk1.png"  alt="">
+                </div>
+                <div class="box-p">
+                    <p>PNN PLUS បណ្ដុំនៃការកម្សាន្តដែលនឹងធ្វើឱ្យទស្សនិកជនកាន់តែជក់ចិត្ត និងកាន់តែទំនើប!</p>
+                </div>
+            </div>
+            <div class="box-right">
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/pk3.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/pk2.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/pk4.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <!--content5-->
+
+              <div class="box-content4" style="margin-top: 20px;">
+                <div class="box-content-7">
+                    <div class="box-title">
+                        <div class="box-conner">
+                            <small>បច្ចេកវិទ្យា<i class="fa-solid fa-chevron-right"></i></small>
+                            <div class="conner"></div>
+                        </div>
+                    </div>
+                    <div class="box-hr">
+                        <hr size="4px" color="red" id="hr">
+                    </div>
+                </div>
+               </div>
+        
+          <!--content6-->
+          <div class="box-content-5">
+            <div class="box-left" style="background-color: rgb(0, 157, 255);">
+                <div class="box-imag">
+                    <img src="/Project Sabay/Photo/p13.jpg"  alt="">
+                </div>
+                <div class="box-p">
+                    <p>ទំនើបអស្ចារ្យ! ក្រុមហ៊ុន EZECOM សហការជាមួយ​ EXOTEL សម្ពោធ​សេវាទំនាក់ទំនងអតិថិជនវៃឆ្លាត ប្រើសុទ្ធតែ AI</p>
+                </div>
+            </div>
+            <div class="box-right">
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <!--content6-->
+
+             
+              <div class="box-content4" style="margin-top: 20px;">
+                <div class="box-content-8">
+                    <div class="box-title">
+                        <div class="box-conner">
+                            <small>ជីវិតនិងសង្គម<i class="fa-solid fa-chevron-right"></i></small>
+                            <div class="conner"></div>
+                        </div>
+                    </div>
+                    <div class="box-hr">
+                        <hr size="4px" color="red" id="hr">
+                    </div>
+                </div>
+               </div>
+        
+            
+          <!--content7-->
+          <div class="box-content-5">
+            <div class="box-left" style="background-color: rgb(255, 170, 0);">
+                <div class="box-imag" >
+                    <img src="/Project Sabay/Photo/p14.png"  alt="">
+                </div>
+                <div class="box-p">
+                    <p>ជឿ​អត់? ប្រទេស​ទាំង ២៥នេះ ក្ដោបក្ដាប់​សេដ្ឋកិច្ច​ពិភពលោក ៨៤%</p>
+                </div>
+            </div>
+            <div class="box-right">
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <!--content7-->
+
+              <!--content4-->
+              <div class="box-content4" style="margin-top: 20px;">
+                <div class="box-content-9">
+                    <div class="box-title">
+                        <div class="box-conner">
+                            <small>កីឡា<i class="fa-solid fa-chevron-right"></i></small>
+                            <div class="conner"></div>
+                        </div>
+                    </div>
+                    <div class="box-hr">
+                        <hr size="4px" color="red" id="hr">
+                    </div>
+                </div>
+               </div>
+        
+               <!--content4-->
+          <!--content8-->
+          <div class="box-content-5">
+            <div class="box-left" style="background-color: rgb(255, 0, 174);">
+                <div class="box-imag">
+                    <img src="/Project Sabay/Photo/p15.jpg"  alt="">
+                </div>
+                <div class="box-p">
+                    <p>ក្លឹប​អារ៉ាប​មួយ​នេះ​មិន​ត្រឹម​ចង់​បាន​ Ronaldo ទេ តែ​ថែម​ចង់​បាន​មិត្ត​រួម​ក្រុម​ Ronaldo ម្នាក់​ទៀត</p>
+                </div>
+            </div>
+            <div class="box-right">
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-top">
+                    <div class="box">
+                        <div class="box-1">
+                            <img src="/Project Sabay/Photo/p5.jpg" alt="">
+                            <p>តារាល្បីៗ​​នឹងបើក​បង្ហាញ​កំប៉ុង​​ Limited-Edition រចនា​ជា​ពិសេគម្រប់​ខួប ១៧៥​ឆ្នាំ ស្រាបៀរកាសស្ប៊ែរ (Carlsberg)</p>
+                        </div>
+                        <div class="box-2">
+                            <img src="/Project Sabay/Photo/p6.jpg" alt="">
+                            <p>ខ្សែវាសនា Song Hye Kyo និង Fan Bingbing ឡើងចុះដូចគ្នាពេកហើយ តាំងពីស្នេហា និងការងារ</p>
+                        </div>
+                        <div class="box-3">
+                            <img src="/Project Sabay/Photo/p11.jpg" alt="">
+                            <p>ញាក់សាច់! ខាត់ វ៉ៃហាំង ប្រកាសបើកកម្មវិធីកម្សាន្ដដ៏ថ្មីសន្លាង ចាក់នៅPNN នៅដើមឆ្នាំ២០២៣</p>
+                        </div>
+                        <div class="box-4">
+                            <img src="/Project Sabay/Photo/p10.jpg" alt="">
+                            <p>ពិធីករ សុខ រ៉ាស៊ី ភ័យបះសក់​ចុង​ឆ្នាំ ច្រឡំបាញ់​លុយ​ឲ្យ​គេ ជាង ១ម៉ឺន​ដុល្លារ​អាមេរិក</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </div>
+       <!--content8-->
+
+
+       <!-- Footer -->
+
+    <div class="box-footer">
+        <div class="box-center">
+            <div class="box1">
+                <img src="https://news.sabay.com.kh/img/footer-logo.png" alt="">
+                <div style="margin-left: -13px;">
+                    <p id="p_1">
+                        ​© រក្សា​សិទ្ធិ​គ្រប់​យ៉ាង​ដោយ​ Sabay ឆ្នាំ​២០១៦
+                    
+                        គោលការណ៍​ភាព​ឯកជន | Privacy Policy
+                        
+                    </p>
+                    <small>
+                        អាសយដ្ឋាន
+                    </small>
+                    <p id="p_1"> 
+                        អគារ​លេខ ៣០៨ មហាវិថីព្រះមុន្នីវង្ស
+                        សង្កាត់បឹងរាំង ខណ្ឌដូនពេញ
+                    </p>
+                </div>
+            </div>
+            <div class="box2">
+                <h2>អំពីយើង</h2>
+               <div style="margin-left: -13px;">
+                <p>
+                    Sabay Digital Corporation ជា​ក្រុមហ៊ុន​ព័ត៌មាន​ឌីជីថល និង​កម្សាន្ត​ឈាន​មុខ​គេ​នៅ​កម្ពុជា។ ព័ត៌មាន​បន្ថែម
+                    <br>
+                    ផលិត​ផល​ និង​ សេវាកម្ម របស់ Sabay 
+                </p>
+                <div style="margin-top: 10px;margin-left: 15px;">
+                    <img src="/Project Sabay/Photo/index-1.jpg" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    <img src="/Project Sabay/Photo/index-2.png" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    <img src="/Project Sabay/Photo/index-3.jpg" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    <img src="/Project Sabay/Photo/index-4.jpg" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    <img src="/Project Sabay/Photo/index-5.jpg" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    <img src="/Project Sabay/Photo/index-6.png" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    <img src="/Project Sabay/Photo/index-7.png" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    <img src="/Project Sabay/Photo/index-9.png" width="40px" height="40px" style="border-radius: 50%;" alt="">
+                    
+                </div>
+               </div>
+            </div>
+            <div class="box3">
+                <h2>ជួបគ្នានៅបណ្តាញសង្គម</h2>
+                <div style="margin-top: 40px;">
+                    <i class="fa-brands fa-facebook"></i>
+                    <i class="fa-brands fa-youtube"></i>    
+                    <i class="fa-brands fa-instagram"></i>
+                    <i class="fa-brands fa-tiktok"></i>
+                </div>
+               <div style="color: white;margin-left: -10px;padding-top: 20px;">
+                <p style="line-height:30px ;">
+                    ទំនាក់ទំនង <br>
+                    info@sabay.com <br>
+                    023 228 000
+                </p>
+               </div>
+
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+</body>
+</html>
